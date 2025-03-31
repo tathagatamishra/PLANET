@@ -2,7 +2,7 @@
 
 
 <h3>
-  Deployed on Netlify &#160; >> &#160; https://p-l-a-n-e-t.netlify.app/
+  Deployed on Netlify &#160; >> &#160; https://planet3d.vercel.app/
 </h3>
 
 ---
